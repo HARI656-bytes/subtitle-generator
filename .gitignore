@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Whisper Models
+*.pt
